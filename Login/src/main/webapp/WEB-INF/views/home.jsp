@@ -13,6 +13,7 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
+<a href="./login"> 로그인</a>
 <a href="./sugangView"> 수강신청</a>
 
 </body>
