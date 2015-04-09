@@ -8,7 +8,7 @@
 <title>Login</title>
 </head>
 <body>
-<form:form method="POST" action="../control/login_check.jsp" >
+<form:form method="POST" action="" >
 <table id="login_table">
 	<tr>
 		<td><form:label path="id">ID</form:label></td>
